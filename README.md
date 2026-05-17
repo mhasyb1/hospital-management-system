@@ -1,4 +1,4 @@
-@"
+
 # Hospital Management System
 
 ## Project Overview
@@ -17,7 +17,9 @@ The Hospital Management System (HMS) is a software solution designed to manage h
 - Database: MongoDB
 - Version Control: Git & GitHub
 
-## Project Structure
+## 📁 Project Structure
+
+```txt
 hospital-management-system/
 │
 ├── backend/
@@ -28,6 +30,7 @@ hospital-management-system/
 ├── README.md
 ├── .gitignore
 └── LICENSE
+```
 
 ## How to Run
 1. Clone the repository
@@ -46,4 +49,3 @@ hospital-management-system/
 
 ## License
 This project is for educational purposes.
-"@ | Set-Content README.md
