@@ -18,11 +18,16 @@ The Hospital Management System (HMS) is a software solution designed to manage h
 - Version Control: Git & GitHub
 
 ## Project Structure
-backend/
-frontend/
-docs/
-screenshots/
-reports/
+hospital-management-system/
+│
+├── backend/
+├── frontend/
+├── docs/
+├── screenshots/
+│
+├── README.md
+├── .gitignore
+└── LICENSE
 
 ## How to Run
 1. Clone the repository
