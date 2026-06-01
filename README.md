@@ -6,7 +6,8 @@
 ![Documentation](https://img.shields.io/badge/Documentation-18+%20Files-blue)
 ![License](https://img.shields.io/badge/License-MIT-green)
 
-A comprehensive **Hospital Management System** demonstrating professional project planning, GitHub workflow, and team collaboration for Software Project Management assignments (Assignment 2 & 3).
+A Hospital Management System demonstrating project planning, GitHub workflow, and team collaboration for Software Project Management assignments (Assignment 2 & 3).
+
 
 ## 🎯 Quick Links
 
@@ -252,17 +253,12 @@ npm start
 
 ---
 
-## 🎯 Expected Grade
+## 🎯 Next Steps
 
-### Current Score: **46/50 (92%)**
+1. Set up the GitHub Projects board.
+2. Create and assign issues from ISSUES_TRACKER.md.
+3. Update task statuses regularly.
 
-**To achieve 100% (50/50):**
-1. Create GitHub Projects board (2 min)
-2. Create issues from ISSUES_TRACKER.md (5 min)
-3. Assign to team members (1 min)
-4. Make follow-up commits (5 min)
-
-**Total time: ~15 minutes** ⏱️
 
 ---
 
@@ -307,5 +303,5 @@ This project is licensed under the MIT License - see [LICENSE](LICENSE) for deta
 
 ---
 
-*Created with ❤️ by Muhammad Haseeb & Mubarak Andarabi*
-This project is for educational purposes.
+*Updated by the project team.*
+

@@ -26,9 +26,11 @@ To develop a comprehensive, user-friendly Hospital Management System that stream
 - Billing System (invoice generation, payment tracking)
 - Admin Dashboard (analytics, reports)
 
+
 ### Out of Scope
 - Mobile app (Phase 2)
-- AI-powered diagnosis system (Future)
+- AI-powered diagnosis system (future)
+
 - Telemedicine features (Phase 2)
 
 ## 3. Team Structure
@@ -37,6 +39,7 @@ To develop a comprehensive, user-friendly Hospital Management System that stream
 - **Total Members:** 2
 - **Project Manager:** Muhammad Haseeb
 - **Documentation & Design Lead:** Mubarak Andarabi
+
 
 ### Responsibilities
 
