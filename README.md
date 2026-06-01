@@ -125,13 +125,14 @@ See [SETUP.md](SETUP.md) for full setup instructions.
 
 ## 📈 Project Timeline
 
-| Phase | Duration | Status | Details |
-|-------|----------|--------|---------|
-| Phase 1 | Week 1 | ✅ Complete | Project setup, documentation |
-| Phase 2 | Week 2-3 | ✅ Complete | Requirements, design, architecture |
-| Phase 3 | Week 4-7 | 🔄 In Progress | Backend development |
-| Phase 4 | Week 8-11 | ⏳ Pending | Frontend development |
-| Phase 5 | Week 12 | ⏳ Pending | Testing, deployment |
+| Phase | Dates | Status | Details |
+|-------|-------|--------|---------|
+| Planning & Setup | May 17 – May 20 | ✅ Complete | Repository setup, team roles, project plan |
+| Requirements & Design | May 20 – May 24 | ✅ Complete | Requirements, architecture, database schema, UI/UX |
+| Documentation | May 24 – May 28 | ✅ Complete | API docs, testing plan, deployment guide, diagrams |
+| GitHub Projects & Issues | May 28 – May 30 | ✅ Complete | Projects board created, 8 issues assigned |
+| Review & Submission | May 30 – Jun 2 | ✅ Complete | Final review and submission |
+
 
 ---
 
