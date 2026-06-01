@@ -52,44 +52,7 @@ A complete Hospital Management System designed to manage hospital operations:
 
 ---
 
-## ⚡ 5-Minute Setup to Get FULL MARKS
 
-### Step 1: Create GitHub Projects Board (2 minutes)
-
-Go to: https://github.com/mhasyb1/hospital-management-system
-
-1. Click **"Projects"** tab
-2. Click **"New project"**  
-3. Enter: `Hospital Management System - Development`
-4. Select template: **"Table"**
-5. Click **"Create project"**
-
-### Step 2: Add Columns (2 minutes)
-
-Edit columns to:
-- 📋 **Backlog** - New tasks
-- 📌 **To Do** - Ready to work
-- 🔄 **In Progress** - Currently working
-- 👀 **In Review** - Under review
-- ✅ **Done** - Completed
-
-### Step 3: Create Issues (1 minute per issue)
-
-Go to: https://github.com/mhasyb1/hospital-management-system/issues
-
-1. Click **"New issue"**
-2. Use templates from `.github/ISSUE_TEMPLATE/`
-3. Copy from [ISSUES_TRACKER.md](ISSUES_TRACKER.md)
-4. Add labels & assign team member
-5. Click **"Create issue"**
-
-**Issue Summary (16 total):**
-- 6 Backend → Muhammad Haseeb
-- 4 Frontend → Mubarak Andarabi
-- 3 Testing → Muhammad Haseeb
-- 3 Documentation → Mubarak Andarabi
-
----
 
 ## 📁 Project Structure
 
