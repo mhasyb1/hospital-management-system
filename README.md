@@ -14,7 +14,7 @@ A Hospital Management System demonstrating project planning, GitHub workflow, an
 ### For Quick Start
 - **⚡ 5-Minute Setup:** See [5-Minute Setup Section](#-5-minute-setup-to-get-full-marks)
 - **📋 Quick Issues:** See [ISSUES_TRACKER.md](ISSUES_TRACKER.md)
-- **✅ Full Checklist:** See [FULL_MARKS_CHECKLIST.md](FULL_MARKS_CHECKLIST.md)
+
 
 ### Documentation
 | Document | Purpose |
@@ -147,7 +147,8 @@ hospital-management-system/
 ### 📋 Project Management
 - [PROJECT_PLAN.md](PROJECT_PLAN.md) - Complete project planning with timeline
 - [REQUIREMENTS.md](REQUIREMENTS.md) - Functional and non-functional requirements
-- [FULL_MARKS_CHECKLIST.md](FULL_MARKS_CHECKLIST.md) - Assignment grading checklist
+- [FULL_MARKS_CHECKLIST.md](FULL_MARKS_CHECKLIST.md) - grading checklist
+
 - [MEETING_MINUTES.md](MEETING_MINUTES.md) - Team meetings and decisions
 
 ### 🏗️ Technical Design
