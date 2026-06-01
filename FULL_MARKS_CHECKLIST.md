@@ -1,8 +1,9 @@
-# 🎯 FULL MARKS CHECKLIST - Assignment 2 & 3
+# Project Checklist - Assignment 2 & 3
 
 ## Assignment 2: Project Planning & GitHub Setup
 
-### ✅ COMPLETE (100%)
+### ✅ Complete
+
 
 #### Repository Requirements
 - ✅ GitHub repository created: https://github.com/mhasyb1/hospital-management-system
@@ -126,7 +127,8 @@
 10. ✅ GitHub issue templates configured
 11. ✅ Contribution commits made
 
-### TO DO (For Full Marks - ~30 minutes work)
+### TO DO (~30 minutes work)
+
 1. Create GitHub Projects board (follow GITHUB_SETUP_INSTRUCTIONS.md)
 2. Create GitHub Issues from templates
 3. Assign issues to team members
@@ -219,9 +221,10 @@ Use the templates in `.github/ISSUE_TEMPLATE/`:
 - Meeting Logs: 5/5 ✅
 - **Total: ~26/30** 
 
-### Final Score: ~46/50 (92%)
+### Final score: n/a
 
-**To reach 50/50 (100%):**
+**Goal:** update the GitHub Projects board and issue statuses regularly.
+
 1. Create GitHub Projects board ✓
 2. Create & assign 12+ issues ✓
 3. Make 3-4 more commits with updates ✓
